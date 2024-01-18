@@ -1,6 +1,5 @@
 # Hi 👋 Im Jeffrey, a Full Stack Software Developer.
 
-[![](https://visitcount.itsvg.in/api?id=lilGuzi&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffreyguzmanmodesto/) 
@@ -17,7 +16,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
