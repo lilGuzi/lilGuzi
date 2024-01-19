@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=lilGuzi&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilGuzi&hide_progress=true&theme=algolia" alt=lilGuzi />
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilGuzi&hide_progress=true&theme=algolia" alt=lilGuzi /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lilGuzi&show_icons=true&locale=en&theme=algolia" alt="lilGuzi" /></p>
 
