@@ -10,13 +10,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=lilGuzi&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilGuzi&hide_progress=true&theme=algolia" alt=lilGuzi />
+<img align="left" height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilGuzi&hide_progress=true&theme=algolia" alt=lilGuzi />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lilGuzi&show_icons=true&locale=en&theme=algolia" alt="lilGuzi" /></p>
+<p>&nbsp;<img align="center" height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=lilGuzi&show_icons=true&locale=en&theme=algolia" alt="lilGuzi" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lilGuzi&theme=algolia" alt="lilGuzi" /></p>
+<p><img align="center" height="180em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=lilGuzi&theme=algolia" alt="lilGuzi" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilGuzi&theme=algolia" height="180em" /></p>
+<p><img align="center" width="420em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilGuzi&theme=algolia" height="180em" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
